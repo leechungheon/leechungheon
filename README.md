@@ -31,17 +31,9 @@
 
 ## 💡 My Favorite 💡
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangwoohyeon&layout=compact&theme=radical)  
-
-
-## 🏅 Baekjoon solved rank 🏅
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dngus7207)](https://solved.ac/dngus7207)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leechungheon&layout=compact&theme=radical)  
 
 
 ## 📈 GitHub stats 📈
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangwoohyeon&show_icons=true&theme=tokyonight)
-
-## ✉️ Contact me ✉️
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=tistory&logoColor=white&link=https://developerwoohyeon.tistory.com/)](https://developerwoohyeon.tistory.com/)   [![Email](https://img.shields.io/badge/Email-dngus0717%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dngus0717@gmail.com)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leechungheon&show_icons=true&theme=tokyonight)
