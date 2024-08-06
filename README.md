@@ -11,7 +11,6 @@
     <p><strong>Database</strong></p>
     <div>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-        <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
     </div>
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
@@ -22,7 +21,7 @@
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
     </div>
     <!-- Others -->
-    <p><bulb>Others</bulb></p>
+    <p><strong>Others</strong></p>
     <div>
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
