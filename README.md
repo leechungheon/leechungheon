@@ -27,7 +27,6 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
     </div>
 
-
 ## 💡 My Favorite 💡
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leechungheon&layout=compact&theme=radical)  
