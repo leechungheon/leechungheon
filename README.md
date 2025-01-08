@@ -19,6 +19,8 @@
         <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
     </div>
+    <!-- Other -->
+![Static Badge](https://img.shields.io/badge/amazon_aws-%23232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## 💡 My Favorite 💡
 
