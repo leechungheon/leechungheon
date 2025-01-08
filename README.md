@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=99ccff&height=300&section=header&text=이충헌%20Github&fontColor=0047AB&fontSize=90)
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:center; align-items:flex-start;">
     <!-- Backend -->
@@ -30,4 +29,4 @@
 
 ## ✉️ Contact me ✉️
 
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=tistory&logoColor=white&link=https://dawn-lee.tistory.com/)](https://dawn-lee.tistory.com/)   [![Email](https://img.shields.io/badge/Email-chung4111@naver.com-lightgray?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chung4111@naver.com)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=tistory&logoColor=white&link=https://dawn-lee.tistory.com/)](https://dawn-lee.tistory.com/)   [![Email](https://img.shields.io/badge/Email-leechung6311@gmail.com-lightgray?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leechung6311@gmail.com)
