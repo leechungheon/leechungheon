@@ -33,6 +33,10 @@
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=leechungheon&theme=tokyonight&hide_border=false)
 
+## 🏙️ My GitHub 3D Profile
+
+![GitHub Isometric Profile](https://subicura-comments.vercel.app/api/isometric?username=leechungheon&theme=github&range=2026)
+
 ## ✉️ Contact me ✉️
 
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=tistory&logoColor=white&link=https://dawn-lee.tistory.com/)](https://dawn-lee.tistory.com/)   [![Email](https://img.shields.io/badge/Email-leechung6311@gmail.com-lightgray?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leechung6311@gmail.com)
