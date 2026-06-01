@@ -33,9 +33,8 @@
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=leechungheon&theme=tokyonight&hide_border=false)
 
-## 🏙️ My GitHub 3D Profile
-
-![GitHub Isometric Profile](https://subicura-comments.vercel.app/api/isometric?username=leechungheon&theme=github&range=2026)
+## 🏙️ My Contributions in 3D 🏙️
+![3D Contrib](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ## ✉️ Contact me ✉️
 
