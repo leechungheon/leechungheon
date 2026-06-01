@@ -33,8 +33,9 @@
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=leechungheon&theme=tokyonight&hide_border=false)
 
-## 🏙️ My Contributions in 3D 🏙️
-![3D Contrib](./profile-3d-contrib/profile-night-rainbow.svg)
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/leechungheon"/>
+</a>
 
 ## ✉️ Contact me ✉️
 
