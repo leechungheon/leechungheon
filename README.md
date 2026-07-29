@@ -35,14 +35,6 @@
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=leechungheon&theme=tokyonight&hide_border=false)
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=leechungheon&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/leechungheon"
-  width="600"
-  height="300"
-/>
-</a>
-
 ## ✉️ Contact me ✉️
 
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=tistory&logoColor=white&link=https://dawn-lee.tistory.com/)](https://dawn-lee.tistory.com/)   [![Email](https://img.shields.io/badge/Email-leechung6311@gmail.com-lightgray?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leechung6311@gmail.com)
